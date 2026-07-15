@@ -33,16 +33,13 @@ python main.py
 ## Filtros incluidos
 
 1. Sepia
-2. Halftone (puntos negro/blanco)
+2. comic (puntos negro/blanco)
 3. Pixelado
-4. Invertido
-5. Termico
-6. Bordes (Canny)
-7. Blur
-8. Halftone Rojo (puntos vino sobre fondo rosado)
-9. Cuadricula (rejilla de líneas horizontales/verticales)
-10. Pop Art (posterizado naranja/rosa/negro/blanco)
-11. Cromatico (aberración cromática RGB + líneas de escaneo tipo VHS)
+4. Bordes (Canny)
+5. Blur
+6. Cuadricula (rejilla de líneas horizontales/verticales)
+7. Pop Art (posterizado naranja/rosa/negro/blanco)
+8. Cromatico (aberración cromática RGB + líneas de escaneo tipo VHS)
 
 ## Personalizar
 
